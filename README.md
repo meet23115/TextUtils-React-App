@@ -1,3 +1,7 @@
+Vsiit this Website at : https://meet23115.github.io/TextUtils-React-App/
+
+TextUtils app is a utility which can be used to manipulate your text and preview it. It also inform you about how many words and characters are there in your text. Moreover it also tells you how much time a user needs to read the text.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
